@@ -49,7 +49,7 @@
 
 ### Github Streak:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K0sandra&theme=radical&hide_border=true&fire=DD2727&sideNums=DD35B5&currStreakNum=3CDD23)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kosandra8&theme=radical&hide_border=true&fire=DD2727&sideNums=DD35B5&currStreakNum=3CDD23)](https://git.io/streak-stats)
 
 
 [discord]: https://discords.com/bio/p/040806 
