@@ -25,8 +25,7 @@
 
 
 ### Connect with me:
-[<img align="left" alt="JessicaTheOracle | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />][discord]
-[<img align="left" alt="JessicaTheOracle | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />][gmail]
+[<img align="left" alt="kosandra8 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />][gmail]
 
 
 
