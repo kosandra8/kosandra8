@@ -1,12 +1,12 @@
-<h1 align="center">  Hi there, I'm Jessica - aka The Oracle 👧🏽 </h1>
+<h1 align="center">  Hola! Mi llamo Jess - aka The Oracle 👧🏽 </h1>
 
 
-<h3 align="center"> I'm a student, 16 year old programmer and a future software developer!! </h3>
+<h3 align="center"> I'm a 17 year old programmer and a future software engineer!! </h3>
 
-<p align="center"> - 🤖 Started coding since last year and been coding for a total of 2 years </p>
+<p align="center"> - 🤖 Started coding since 2 years ago and been coding for a total of 4 years </p>
 <p align="center"> - ‍💻 Self taught programmer and my favourite language is Python 🐍 </p>
 <p align="center"> - 🤝 I’m looking to collaborate with other programmers and creators </p>
-<p align="center"> - 🥅 2021 Goals: Finish my discord bot project and use it in my discord server </p>
+<p align="center"> - 🥅 2023 Goals: Start a new project in October and create a whole new repository involving creation of website </p>
 <p align="center"> - 🤓 Fun fact: I love to study, code and play the piano </p>
 
 <p align="center"> <img src= "https://komarev.com/ghpvc/?username=Oracle08&color=blueviolet">
@@ -50,6 +50,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kosandra8&theme=radical&hide_border=true&fire=DD2727&sideNums=DD35B5&currStreakNum=3CDD23)](https://git.io/streak-stats)
 
-
-[discord]: https://discords.com/bio/p/040806 
 [gmail]: jessica040806@gmail.com
