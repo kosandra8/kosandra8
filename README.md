@@ -1,12 +1,12 @@
 <h1 align="center">  Hola! Mi llamo Jess - aka The Oracle 👧🏽 </h1>
 
 
-<h3 align="center"> I'm a 17 year old programmer and a future software engineer!! </h3>
+<h3 align="center"> I'm a 17 year old software engineer student at RMIT </h3>
 
-<p align="center"> - 🤖 Started coding since 2 years ago and been coding for a total of 4 years </p>
+<p align="center"> - 🤖 Started coding at 13 and been coding for a total of 4 years </p>
 <p align="center"> - ‍💻 Self taught programmer and my favourite language is Python 🐍 </p>
 <p align="center"> - 🤝 I’m looking to collaborate with other programmers and creators </p>
-<p align="center"> - 🥅 2023 Goals: Start a new project in October and create a whole new repository involving creation of website </p>
+<p align="center"> - 🥅 2024 Goals: Master 3 programming languages (Java, Python and C++) and look for an internship </p>
 <p align="center"> - 🤓 Fun fact: I love to study, code and play the piano </p>
 
 <p align="center"> <img src= "https://komarev.com/ghpvc/?username=Oracle08&color=blueviolet">
