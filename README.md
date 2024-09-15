@@ -1,7 +1,7 @@
 <h1 align="center">  Hola! Mi llamo Jess - aka The Oracle 👧🏽 </h1>
 
 
-<h3 align="center"> I'm a 17 year old software engineer student at RMIT </h3>
+<h3 align="center"> I'm a 18 year old software engineer student </h3>
 
 <p align="center"> - 🤖 Started coding at 13 and been coding for a total of 4 years </p>
 <p align="center"> - ‍💻 Self taught programmer and my favourite language is Python 🐍 </p>
